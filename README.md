@@ -1,8 +1,8 @@
 # Template on Workshop for Reproducible research at ENSGSI
 
-**Name of the student:**  <br>
-**Date:** <br>
-**Course:**  <br>
+**Name of the student:** Javier Miranda <br>
+**Date:** 01/02/2021 <br>
+**Course:**  ENSGSI - CI15 <br>
 
 ## Purpose
 > The purpose of thi repository contains the files and tutorial on the reproducible research.
